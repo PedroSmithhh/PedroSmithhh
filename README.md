@@ -1,5 +1,10 @@
 <h2 align="left">Olá👋! Meu nome é Pedro e seja muito bem vindo ao meu perfil!</h2>
-    <style>
+
+<body>
+    <h1>👋 Olá, seja bem-vindo ao meu perfil!</h1>
+    <p>Sou estudante do <strong>3º ano de Sistemas de Informação</strong> na UNESP. 🎓</p>
+
+ <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -19,34 +24,31 @@
         .emoji {
             font-size: 1.2em;
         }
-    </style>
-</head>
-<body>
-    <h1>👋 Olá, seja bem-vindo ao meu perfil!</h1>
-    <p>Sou estudante do <strong>3º ano de Sistemas de Informação</strong> na UNESP. 🎓</p>
+</style>
     
-    <h2>💻 Principais Tecnologias</h2>
-    <ul>
-        <li>🐍 Python</li>
-        <li>🌐 Django</li>
-        <li>📜 JavaScript</li>
-        <li>🎨 HTML & CSS</li>
-        <li>📊 Pandas & NumPy</li>
-    </ul>
-    
-    <h2>🛒 Meu Projeto Atual</h2>
-    <p>Estou desenvolvendo um <strong>e-commerce</strong> como parte de um trabalho acadêmico. Este projeto está me desafiando a unir conhecimento técnico e criatividade para criar algo incrível! 🚀</p>
-    
-    <h2>🌟 Sobre Mim</h2>
-    <ul>
-        <li>🎨 Criativo</li>
-        <li>💪 Determinado</li>
-        <li>🔍 Curioso</li>
-    </ul>
+<h2>💻 Principais Tecnologias</h2>
+<ul>
+    <li>🐍 Python</li>
+    <li>🌐 Django</li>
+    <li>📜 JavaScript</li>
+    <li>🎨 HTML & CSS</li>
+    <li>📊 Pandas & NumPy</li>
+</ul>
 
-    <p>Vamos nos conectar e compartilhar conhecimento! 😊</p>
+<h2>🛒 Meu Projeto Atual</h2>
+<p>Estou desenvolvendo um <strong>e-commerce</strong> como parte de um trabalho acadêmico. Este projeto está me desafiando a unir conhecimento técnico e criatividade para criar algo incrível! 🚀</p>
+
+<h2>🌟 Sobre Mim</h2>
+<ul>
+    <li>🎨 Criativo</li>
+    <li>💪 Determinado</li>
+    <li>🔍 Curioso</li>
+</ul>
+
+<p>Vamos nos conectar e compartilhar conhecimento! 😊</p>
 </body>
 </html>
+
 
 ###
 
