@@ -19,10 +19,14 @@
 <h2>🛒 Meu Projeto Atual</h2>
 <p>Atualmente estou desenvolvendo um <strong>e-commerce</strong> como parte de um trabalho acadêmico. Este projeto está me desafiando a unir conhecimento técnico e criatividade para criar algo incrível! 🚀</p>
 
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroSmithhh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroSmithhh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -40,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
 </div>
 
+###
+
 <div align="left">
 <a href="pirs.pedrinhool@gmail.com" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
@@ -47,8 +53,9 @@
 <a href="https://www.linkedin.com/in/pedroirsmith/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
 </a>
-
 </div>
+
+###
 
 <p>Vamos nos conectar e compartilhar conhecimento! 😊</p>
 
