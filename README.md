@@ -1,4 +1,52 @@
 <h2 align="left">Olá👋! Meu nome é Pedro e seja muito bem vindo ao meu perfil!</h2>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            margin: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 8px 0;
+        }
+        .emoji {
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+<body>
+    <h1>👋 Olá, seja bem-vindo ao meu perfil!</h1>
+    <p>Sou estudante do <strong>3º ano de Sistemas de Informação</strong> na UNESP. 🎓</p>
+    
+    <h2>💻 Principais Tecnologias</h2>
+    <ul>
+        <li>🐍 Python</li>
+        <li>🌐 Django</li>
+        <li>📜 JavaScript</li>
+        <li>🎨 HTML & CSS</li>
+        <li>📊 Pandas & NumPy</li>
+    </ul>
+    
+    <h2>🛒 Meu Projeto Atual</h2>
+    <p>Estou desenvolvendo um <strong>e-commerce</strong> como parte de um trabalho acadêmico. Este projeto está me desafiando a unir conhecimento técnico e criatividade para criar algo incrível! 🚀</p>
+    
+    <h2>🌟 Sobre Mim</h2>
+    <ul>
+        <li>🎨 Criativo</li>
+        <li>💪 Determinado</li>
+        <li>🔍 Curioso</li>
+    </ul>
+
+    <p>Vamos nos conectar e compartilhar conhecimento! 😊</p>
+</body>
+</html>
 
 ###
 
@@ -36,10 +84,4 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/PedroSmithhh/PedroSmithhh/output/snake.svg" alt="Snake animation" />
-
-###
