@@ -1,30 +1,4 @@
 <h2 align="left">Olá👋! Meu nome é Pedro e seja muito bem vindo ao meu perfil!</h2>
-
-<body>
-    <h1>👋 Olá, seja bem-vindo ao meu perfil!</h1>
-    <p>Sou estudante do <strong>3º ano de Sistemas de Informação</strong> na UNESP. 🎓</p>
-
- <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            background-color: #f9f9f9;
-            margin: 20px;
-        }
-        h1 {
-            color: #333;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin: 8px 0;
-        }
-        .emoji {
-            font-size: 1.2em;
-        }
-</style>
     
 <h2>💻 Principais Tecnologias</h2>
 <ul>
@@ -36,7 +10,7 @@
 </ul>
 
 <h2>🛒 Meu Projeto Atual</h2>
-<p>Estou desenvolvendo um <strong>e-commerce</strong> como parte de um trabalho acadêmico. Este projeto está me desafiando a unir conhecimento técnico e criatividade para criar algo incrível! 🚀</p>
+<p>Atualmente estou desenvolvendo um <strong>e-commerce</strong> como parte de um trabalho acadêmico. Este projeto está me desafiando a unir conhecimento técnico e criatividade para criar algo incrível! 🚀</p>
 
 <h2>🌟 Sobre Mim</h2>
 <ul>
@@ -46,9 +20,6 @@
 </ul>
 
 <p>Vamos nos conectar e compartilhar conhecimento! 😊</p>
-</body>
-</html>
-
 
 ###
 
