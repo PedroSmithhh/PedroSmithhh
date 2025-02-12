@@ -11,9 +11,8 @@
 <ul>
     <li>🐍 Python</li>
     <li>🌐 Django</li>
-    <li>📜 JavaScript</li>
-    <li>🎨 HTML & CSS</li>
-    <li>📊 Pandas & NumPy</li>
+    <li>📜 Node.js</li>
+    <li>📊 SQL</li>
 </ul>
 
 <h2>🛒 Meu Projeto Atual</h2>
