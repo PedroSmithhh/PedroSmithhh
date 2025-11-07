@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Developer** and **data scientist**, currently pursuing a degree in Information Systems at **UNESP**.  
+I'm a **Software Developer** and **Data Scientist**, currently pursuing a degree in Information Systems at **UNESP**.  
  - Passionate about turning **data into smart solutions** and building **robust back-end applications**.  
  - Experience with **Machine Learning** projects (image classification & segmentation) and Python apps with both **SQL** and **NoSQL databases**.  
 
