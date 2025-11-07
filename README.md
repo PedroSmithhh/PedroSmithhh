@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Software Developer** and **Data Analyst**, currently pursuing a degree in Information Systems at **UNESP**.  
+I'm a **Software Developer** and **data scientist**, currently pursuing a degree in Information Systems at **UNESP**.  
  - Passionate about turning **data into smart solutions** and building **robust back-end applications**.  
  - Experience with **Machine Learning** projects (image classification & segmentation) and Python apps with both **SQL** and **NoSQL databases**.  
 
@@ -48,11 +48,11 @@ I'm a **Software Developer** and **Data Analyst**, currently pursuing a degree i
 ###  Project Highlights
 
 - 🧠 **Machine Learning Development**:  
-  - Building models for **image segmentation & classification** using Python and architectures such as U-NET and Random Forest (academic projects + thesis).
+  - Building models using Python for image classification and predictive analytics.
 
 - 🛠️ **Back-end Development**:  
   - Contribute to an app with Python + Firebase Firestore, applying **CI/CD pipelines** with GitHub Actions.
-  - Contribute to developing an e-commerce for a college course with Django Admin
+  - Contribute to developing an e-commerce for a college course with Django Admin.
 
 ---
 
